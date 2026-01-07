@@ -1,1 +1,1 @@
-# clicker-game-for-android
+# clicker-game-for-android by google ai
